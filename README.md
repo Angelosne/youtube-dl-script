@@ -6,9 +6,16 @@ It is a personal project to understand bash scripting better.
 How to run:
 
 Download youtube-dl-script.sh
+
 cd in the folder you downloaded it
-make it executable chmod +x youtube-dl-script.sh
-run with ./youtube-dl-script.sh
+
+make it executable 
+
+>chmod +x youtube-dl-script.sh
+
+run with 
+
+>./youtube-dl-script.sh
 
 The videos/music will be downloaded in the same folder with the script.
 The format name is title of the video.extention
