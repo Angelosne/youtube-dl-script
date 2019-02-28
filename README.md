@@ -6,6 +6,7 @@ It is a personal project to understand bash scripting better.
 Requirements:
 
 >youtube-dl
+
 >ffmpeg
 
 How to run:
