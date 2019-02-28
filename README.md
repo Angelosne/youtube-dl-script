@@ -5,8 +5,8 @@ It is a personal project to understand bash scripting better.
 
 Requirements:
 
-youtube-dl
-ffmpeg
+>youtube-dl
+>ffmpeg
 
 How to run:
 
