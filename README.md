@@ -3,17 +3,22 @@ Supports only basic operation as download video/playlists and convert to mp3 opt
 
 It is a personal project to understand bash scripting better.
 
+Requirements:
+
+youtube-dl
+ffmpeg
+
 How to run:
 
 Download youtube-dl-script.sh
 
 cd in the folder you downloaded it
 
-make it executable 
+make it executable
 
 >chmod +x youtube-dl-script.sh
 
-run with 
+run with
 
 >./youtube-dl-script.sh
 
